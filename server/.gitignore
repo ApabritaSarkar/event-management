@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Optional cache folders
+.cache/
+dist/
+
+# OS & IDE junk
+.DS_Store
+*.swp
+.vscode/
